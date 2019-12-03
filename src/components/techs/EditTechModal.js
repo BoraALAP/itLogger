@@ -13,7 +13,6 @@ const EditTechModel = ({ current, updateTech, clearCurrentTech }) => {
       setFirstName(current.firstName);
       setLastName(current.lastName);
     }
-    console.log(current);
     //eslint-disable-next-line
   }, [current]);
 

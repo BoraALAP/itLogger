@@ -2,31 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "123123",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-12-03T04:59:27.059Z"
-    },
-    {
-      "id": 4,
-      "message": "Update the Software on the machine 223",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-12-03T05:00:38.147Z"
-    },
-    {
-      "message": "Finally done with this ",
-      "attention": false,
-      "tech": "Bora Alap",
-      "date": "2019-12-03T14:36:00.359Z",
-      "id": 5
-    },
-    {
       "message": "test",
-      "attention": false,
-      "tech": "Jen Williams",
-      "date": "2019-12-03T15:01:01.446Z",
-      "id": 6
+      "attention": true,
+      "tech": "4",
+      "date": "2019-12-03T18:12:13.797Z"
     }
   ],
   "techs": [
@@ -38,12 +17,12 @@
     {
       "id": 4,
       "firstName": "Jen",
-      "lastName": "Williamson"
+      "lastName": "Willia"
     },
     {
+      "id": 5,
       "firstName": "bora ",
-      "lastName": "theTech",
-      "id": 5
+      "lastName": "theTech2"
     },
     {
       "id": 6,
